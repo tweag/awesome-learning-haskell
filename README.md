@@ -24,6 +24,7 @@ This is a collection of resources which were useful to Tweagers for learning Has
 - [Haskell Programming from first principles](https://haskellbook.com/) by [Christopher Allen](https://twitter.com/bitemyapp) and [Julie Moronuki](https://twitter.com/argumatronic)
 - [Learn Haskell by building a blog generator](https://lhbg-book.link/) by [Gil Mizrahi](https://twitter.com/_gilmi)
 - [The simple Haskell handbook](https://marcosampellegrini.com/simple-haskell-book) by [Marco Sampellegrini](https://twitter.com/_alpacaaa)
+- [Programming in Haskell](https://www.cs.nott.ac.uk/~pszgmh/pih.html) by [Graham Hutton](http://www.cs.nott.ac.uk/~pszgmh/)
 
 ### Courses
 
