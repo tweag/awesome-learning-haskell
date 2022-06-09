@@ -13,6 +13,7 @@ This is a collection of resources which were useful to Tweagers for learning Has
   - [Extensions](#extensions)
   - [Functors, applicatives and monads](#functors-applicatives-and-monads)
   - [IO](#io)
+  - [Optics](#optics)
   - [String types](#string-types)
 
 ## Learning Haskell
@@ -33,6 +34,7 @@ This is a collection of resources which were useful to Tweagers for learning Has
 ### Dependent types
 
 - [An introduction to typeclass metaprogramming](https://lexi-lambda.github.io/blog/2021/03/25/an-introduction-to-typeclass-metaprogramming/) by [Alexis King](https://twitter.com/lexi_lambda)
+- [Introduction to Singletons](https://blog.jle.im/entries/series/+introduction-to-singletons.html) by [Justin Le](https://twitter.com/mstk)
 
 ### Deriving
 
@@ -57,6 +59,10 @@ This is a collection of resources which were useful to Tweagers for learning Has
 - [Introduction to IO](https://wiki.haskell.org/Introduction_to_IO)
 - [Introduction to Haskell IO](https://www.haskellforall.com/2013/01/introduction-to-haskell-io.html) by [Gabriella Gonzales](https://twitter.com/GabriellaG439)
 - [Introduction to Haskell IO/Actions](https://wiki.haskell.org/Introduction_to_Haskell_IO/Actions)
+
+# Optics
+
+- [Don't Fear the Profunctor Optics](https://github.com/hablapps/dontfeartheprofunctoroptics) by [Jesús López-González](https://twitter.com/jeslg)
 
 ### String types
 
