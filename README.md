@@ -7,9 +7,11 @@ This is a collection of resources which were useful to Tweagers for learning Has
   - [Courses](#courses)
   - [Videos](#videos)
 - [Specific topics](#specific-topics)
+  - [Dependent types](#dependent-types)
   - [Deriving](#deriving)
   - [Design patterns](#design-patterns)
   - [Extensions](#extensions)
+  - [Functors, applicatives and monads](#functors-applicatives-and-monads)
   - [IO](#io)
   - [String types](#string-types)
 
@@ -18,7 +20,7 @@ This is a collection of resources which were useful to Tweagers for learning Has
 ### Books
 
 - [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) by [Vitaly Bragilevsky](https://twitter.com/VBragilevsky)
-- [Haskell Programming from first principles] by [Christopher Allen](https://twitter.com/bitemyapp) and [Julie Moronuki](https://twitter.com/argumatronic)
+- [Haskell Programming from first principles](https://haskellbook.com/) by [Christopher Allen](https://twitter.com/bitemyapp) and [Julie Moronuki](https://twitter.com/argumatronic)
 - [Learn Haskell by building a blog generator](https://lhbg-book.link/) by [Gil Mizrahi](https://twitter.com/_gilmi)
 - [The simple Haskell handbook](https://marcosampellegrini.com/simple-haskell-book) by [Marco Sampellegrini](https://twitter.com/_alpacaaa)
 
@@ -27,6 +29,10 @@ This is a collection of resources which were useful to Tweagers for learning Has
 ### Videos
 
 ## Specific topics
+
+### Dependent types
+
+- [An introduction to typeclass metaprogramming](https://lexi-lambda.github.io/blog/2021/03/25/an-introduction-to-typeclass-metaprogramming/) by [Alexis King](https://twitter.com/lexi_lambda)
 
 ### Deriving
 
@@ -40,6 +46,10 @@ This is a collection of resources which were useful to Tweagers for learning Has
 ### Extensions
 
 - [Overview of all language extensions](https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/table.html)
+
+### Functors, applicatives and monads
+
+- [Functors, Applicatives, And Monads In Pictures](https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) by [Adit Bhargava](https://twitter.com/_egonschiele)
 
 ### IO
 
