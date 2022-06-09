@@ -13,6 +13,9 @@ This is a collection of resources which were useful to Tweagers for learning Has
 
 ### Books
 
+- [Learn Haskell by building a blog generator](https://lhbg-book.link/) by [Gil Mizrahi](https://twitter.com/_gilmi)
+- [The simple Haskell handbook](https://marcosampellegrini.com/simple-haskell-book) by [Marco Sampellegrini](https://twitter.com/_alpacaaa)
+
 ### Courses
 
 ### Videos
@@ -21,5 +24,5 @@ This is a collection of resources which were useful to Tweagers for learning Has
 
 ### Design patterns
 
-- [The service pattern](https://www.schoolofhaskell.com/user/meiersi/the-service-pattern) by Simon Meier
 - [The handle pattern](https://jaspervdj.be/posts/2018-03-08-handle-pattern.html) by [Jasper Van der Jeugt](https://twitter.com/jaspervdj)
+- [The service pattern](https://www.schoolofhaskell.com/user/meiersi/the-service-pattern) by Simon Meier
