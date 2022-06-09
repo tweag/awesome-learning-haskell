@@ -1,4 +1,4 @@
-# awesome-haskell
+# awesome-learning-haskell
 
 This is a collection of resources which were useful to Tweagers for learning Haskell and its various aspects
 
@@ -7,14 +7,18 @@ This is a collection of resources which were useful to Tweagers for learning Has
   - [Courses](#courses)
   - [Videos](#videos)
 - [Specific topics](#specific-topics)
+  - [Deriving](#deriving)
   - [Design patterns](#design-patterns)
   - [Extensions](#extensions)
+  - [IO](#io)
   - [String types](#string-types)
 
 ## Learning Haskell
 
 ### Books
 
+- [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) by [Vitaly Bragilevsky](https://twitter.com/VBragilevsky)
+- [Haskell Programming from first principles] by [Christopher Allen](https://twitter.com/bitemyapp) and [Julie Moronuki](https://twitter.com/argumatronic)
 - [Learn Haskell by building a blog generator](https://lhbg-book.link/) by [Gil Mizrahi](https://twitter.com/_gilmi)
 - [The simple Haskell handbook](https://marcosampellegrini.com/simple-haskell-book) by [Marco Sampellegrini](https://twitter.com/_alpacaaa)
 
@@ -24,6 +28,10 @@ This is a collection of resources which were useful to Tweagers for learning Has
 
 ## Specific topics
 
+### Deriving
+
+- [Deriving](https://kowainik.github.io/posts/deriving) by [Veronika Romashkina](https://twitter.com/vrom911) and [Dmitrii Kovanikov](https://twitter.com/ChShersh/)
+
 ### Design patterns
 
 - [The handle pattern](https://jaspervdj.be/posts/2018-03-08-handle-pattern.html) by [Jasper Van der Jeugt](https://twitter.com/jaspervdj)
@@ -32,6 +40,14 @@ This is a collection of resources which were useful to Tweagers for learning Has
 ### Extensions
 
 - [Overview of all language extensions](https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/table.html)
+
+### IO
+
+- [Input and Output](http://learnyouahaskell.com/input-and-output)
+- [Introduction to IO](https://wiki.haskell.org/Introduction_to_IO)
+- [Introduction to Haskell IO](https://www.haskellforall.com/2013/01/introduction-to-haskell-io.html) by [Gabriella Gonzales](https://twitter.com/GabriellaG439)
+- [Introduction to Haskell IO/Actions](https://wiki.haskell.org/Introduction_to_Haskell_IO/Actions)
+
 ### String types
 
 - [Eat Haskell String Types for Breakfast](https://free.cofree.io/2020/05/06/string-types/) by Ziyang Liu
