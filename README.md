@@ -8,6 +8,8 @@ This is a collection of resources which were useful to Tweagers for learning Has
   - [Videos](#videos)
 - [Specific topics](#specific-topics)
   - [Design patterns](#design-patterns)
+  - [Extensions](#extensions)
+  - [String types](#string-types)
 
 ## Learning Haskell
 
@@ -27,6 +29,9 @@ This is a collection of resources which were useful to Tweagers for learning Has
 - [The handle pattern](https://jaspervdj.be/posts/2018-03-08-handle-pattern.html) by [Jasper Van der Jeugt](https://twitter.com/jaspervdj)
 - [The service pattern](https://www.schoolofhaskell.com/user/meiersi/the-service-pattern) by Simon Meier
 
+### Extensions
+
+- [Overview of all language extensions](https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/table.html)
 ### String types
 
 - [Eat Haskell String Types for Breakfast](https://free.cofree.io/2020/05/06/string-types/) by Ziyang Liu
