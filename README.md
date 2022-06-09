@@ -24,6 +24,7 @@ This is a collection of resources which were useful to Tweagers for learning Has
 - [Haskell Programming from first principles](https://haskellbook.com/) by [Christopher Allen](https://twitter.com/bitemyapp) and [Julie Moronuki](https://twitter.com/argumatronic)
 - [Learn Haskell by building a blog generator](https://lhbg-book.link/) by [Gil Mizrahi](https://twitter.com/_gilmi)
 - [The simple Haskell handbook](https://marcosampellegrini.com/simple-haskell-book) by [Marco Sampellegrini](https://twitter.com/_alpacaaa)
+- [Thinking with Type](https://thinkingwithtypes.com/) by [Sandy Maguire](https://reasonablypolymorphic.com/)
 
 ### Courses
 
