@@ -70,3 +70,8 @@ This is a collection of resources which were useful to Tweagers for learning Has
 - [Haskell String Types](https://www.alexeyshmalko.com/2015/haskell-string-types/) by Alexey Shmalko
 - [String types](https://www.fpcomplete.com/haskell/tutorial/string-types/) by [FPComplete](https://twitter.com/FPComplete)
 - [Untangling Haskell's Strings](https://mmhaskell.com/blog/2017/5/15/untangling-haskells-strings) by [Monday Morning Haskell](https://twitter.com/HaskellMonday)
+
+### Traps and pitfalls
+
+- [Haskell's Dangerous Functions](https://github.com/NorfairKing/haskell-dangerous-functions) by Tom Sydney Kerckhove
+- [Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/) by Michael Snoyman
