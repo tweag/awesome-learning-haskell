@@ -15,6 +15,7 @@ This is a collection of resources which were useful to Tweagers for learning Has
   - [IO](#io)
   - [Optics](#optics)
   - [String types](#string-types)
+  - [Traps and pitfalls](#traps-and-pitfalls)
 
 ## Learning Haskell
 
@@ -75,5 +76,5 @@ This is a collection of resources which were useful to Tweagers for learning Has
 
 ### Traps and pitfalls
 
-- [Haskell's Dangerous Functions](https://github.com/NorfairKing/haskell-dangerous-functions) by Tom Sydney Kerckhove
-- [Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/) by Michael Snoyman
+- [Asynchronous Exception Handling in Haskell](https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell/) by [Michael Snoyman](https://twitter.com/snoyberg)
+- [Haskell's Dangerous Functions](https://github.com/NorfairKing/haskell-dangerous-functions) by [Tom Sydney Kerckhove](https://twitter.com/kerckhove_ts)
