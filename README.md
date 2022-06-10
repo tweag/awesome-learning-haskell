@@ -1,6 +1,6 @@
 # awesome-learning-haskell
 
-This is a collection of resources which were useful to Tweagers for learning Haskell and its various aspects
+A collection of resources which were useful to Tweagers for learning Haskell and its various aspects
 
 - [Learning Haskell](#learning-haskell)
   - [Books](#books)
