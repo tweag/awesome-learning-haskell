@@ -7,6 +7,7 @@ A collection of resources which were useful to Tweagers for learning Haskell and
   - [Courses](#courses)
   - [Videos](#videos)
 - [Specific topics](#specific-topics)
+  - [Category theory](#category-theory)
   - [Dependent types](#dependent-types)
   - [Deriving](#deriving)
   - [Design patterns](#design-patterns)
@@ -33,6 +34,11 @@ A collection of resources which were useful to Tweagers for learning Haskell and
 ### Videos
 
 ## Specific topics
+
+### Category theory
+
+- [Category theory for programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) by [Bartosz Milewski](https://twitter.com/BartoszMilewski)
+- [Programming with categories](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i7MTGhUROZy3BOICnVixETS) by [Topos Institute](https://topos.site/)
 
 ### Dependent types
 
