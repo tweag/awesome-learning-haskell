@@ -29,6 +29,7 @@ A collection of resources which were useful to Tweagers for learning Haskell and
 - [Programming in Haskell](https://www.cs.nott.ac.uk/~pszgmh/pih.html) by [Graham Hutton](https://twitter.com/haskellhutt)
 - [The simple Haskell handbook](https://marcosampellegrini.com/simple-haskell-book) by [Marco Sampellegrini](https://twitter.com/_alpacaaa)
 - [Thinking with Types](https://thinkingwithtypes.com/) by [Sandy Maguire](https://reasonablypolymorphic.com/)
+- [Algebra-Driven Design](https://leanpub.com/algebra-driven-design) by [Sandy Maguire](https://reasonablypolymorphic.com/)
 
 ### Courses
 
