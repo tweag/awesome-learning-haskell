@@ -15,6 +15,7 @@ A collection of resources which were useful to Tweagers for learning Haskell and
   - [Functors, applicatives and monads](#functors-applicatives-and-monads)
   - [IO](#io)
   - [Optics](#optics)
+  - [Parser combinators](#parser-combinators)
   - [String types](#string-types)
   - [Traps and pitfalls](#traps-and-pitfalls)
 
@@ -69,13 +70,13 @@ A collection of resources which were useful to Tweagers for learning Haskell and
 - [Introduction to Haskell IO](https://www.haskellforall.com/2013/01/introduction-to-haskell-io.html) by [Gabriella Gonzales](https://twitter.com/GabriellaG439)
 - [Introduction to Haskell IO/Actions](https://wiki.haskell.org/Introduction_to_Haskell_IO/Actions)
 
-### Parser Combinators
-
-- [Megaparsec Tutorial](https://markkarpov.com/tutorial/megaparsec.html) by [Mark Karpov](https://markkarpov.com/)
-
 # Optics
 
 - [Don't Fear the Profunctor Optics](https://github.com/hablapps/dontfeartheprofunctoroptics) by [Jesús López-González](https://twitter.com/jeslg)
+
+### Parser Combinators
+
+- [Megaparsec Tutorial](https://markkarpov.com/tutorial/megaparsec.html) by [Mark Karpov](https://markkarpov.com/)
 
 ### String types
 
