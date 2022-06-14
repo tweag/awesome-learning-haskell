@@ -32,6 +32,8 @@ A collection of resources which were useful to Tweagers for learning Haskell and
 
 ### Courses
 
+- [C9 Lectures: Erik Meijer - Functional Programming Fundamentals](https://docs.microsoft.com/en-us/shows/c9-lectures-erik-meijer-functional-programming-fundamentals/)
+
 ### Videos
 
 ## Specific topics
