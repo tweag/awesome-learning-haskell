@@ -2,7 +2,7 @@
 
 A collection of resources which were useful to Tweagers for learning Haskell and its various aspects
 
-- [Learning Haskell](#learning-haskell)
+- [General resources](#general-resources)
   - [Books](#books)
   - [Courses](#courses)
   - [Videos](#videos)
@@ -20,7 +20,7 @@ A collection of resources which were useful to Tweagers for learning Haskell and
   - [String types](#string-types)
   - [Traps and pitfalls](#traps-and-pitfalls)
 
-## Learning Haskell
+## General resources
 
 ### Books
 
@@ -37,7 +37,6 @@ A collection of resources which were useful to Tweagers for learning Haskell and
 ### Videos
 
 - [C9 Lectures: Erik Meijer - Functional Programming Fundamentals](https://docs.microsoft.com/en-us/shows/c9-lectures-erik-meijer-functional-programming-fundamentals/)
-- [C9 Lectures: Dr. Ralf Lämmel - Going Bananas + Advanced Functional Programming](https://youtu.be/3DoqZOcn1ro)
 
 ## Specific topics
 
