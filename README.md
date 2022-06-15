@@ -16,6 +16,7 @@ A collection of resources which were useful to Tweagers for learning Haskell and
   - [IO](#io)
   - [Optics](#optics)
   - [Parser combinators](#parser-combinators)
+  - [Profunctors](#profunctors)
   - [String types](#string-types)
   - [Traps and pitfalls](#traps-and-pitfalls)
 
@@ -81,6 +82,10 @@ A collection of resources which were useful to Tweagers for learning Haskell and
 ### Parser Combinators
 
 - [Megaparsec Tutorial](https://markkarpov.com/tutorial/megaparsec.html) by [Mark Karpov](https://markkarpov.com/)
+
+### Profunctors
+
+- [Deconstructing Lambdas—An Awkward Guide to Programming Without Functions](https://www.youtube.com/watch?v=xZmPuz9m2t0) by [Chris Penner](https://twitter.com/chrislpenner)
 
 ### String types
 
