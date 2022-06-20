@@ -16,6 +16,7 @@ A collection of resources which were useful to Tweagers for learning Haskell and
   - [IO](#io)
   - [Optics](#optics)
   - [Parser combinators](#parser-combinators)
+  - [Performance](#performance)
   - [Profunctors](#profunctors)
   - [String types](#string-types)
   - [Traps and pitfalls](#traps-and-pitfalls)
@@ -82,6 +83,10 @@ A collection of resources which were useful to Tweagers for learning Haskell and
 ### Parser Combinators
 
 - [Megaparsec Tutorial](https://markkarpov.com/tutorial/megaparsec.html) by [Mark Karpov](https://markkarpov.com/)
+
+### Performance
+
+- [Parallel and Concurrent Programming in Haskell](https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/) by [Simon Marlow](https://twitter.com/simonmar)
 
 ### Profunctors
 
