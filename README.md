@@ -74,7 +74,7 @@ A collection of resources which were useful to Tweagers for learning Haskell and
 - [Introduction to Haskell IO](https://www.haskellforall.com/2013/01/introduction-to-haskell-io.html) by [Gabriella Gonzales](https://twitter.com/GabriellaG439)
 - [Introduction to Haskell IO/Actions](https://wiki.haskell.org/Introduction_to_Haskell_IO/Actions)
 
-# Optics
+### Optics
 
 - [Don't Fear the Profunctor Optics](https://github.com/hablapps/dontfeartheprofunctoroptics) by [Jesús López-González](https://twitter.com/jeslg)
 - [Optics By Example](https://leanpub.com/optics-by-example) by [Chris Penner](https://twitter.com/chrislpenner)
