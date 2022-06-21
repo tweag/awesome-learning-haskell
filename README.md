@@ -11,6 +11,7 @@ A collection of resources which were useful to Tweagers for learning Haskell and
   - [Deriving](#deriving)
   - [Design patterns](#design-patterns)
   - [Extensions](#extensions)
+  - [Functional programming](#functional-programming)
   - [Functors, applicatives and monads](#functors-applicatives-and-monads)
   - [IO](#io)
   - [Optics](#optics)
@@ -36,10 +37,6 @@ A collection of resources which were useful to Tweagers for learning Haskell and
 
 - [C9 Lectures: Erik Meijer - Functional Programming Fundamentals](https://docs.microsoft.com/en-us/shows/c9-lectures-erik-meijer-functional-programming-fundamentals/)
 
-### Conceptual
-
-- [What's Functional Programming All About](https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html)
-
 ## Specific topics
 
 ### Category theory
@@ -64,6 +61,10 @@ A collection of resources which were useful to Tweagers for learning Haskell and
 ### Extensions
 
 - [Overview of all language extensions](https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/table.html)
+
+### Functional programming
+
+- [What's Functional Programming All About](https://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html)
 
 ### Functors, applicatives and monads
 
