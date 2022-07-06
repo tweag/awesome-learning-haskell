@@ -13,6 +13,7 @@ A collection of resources which were useful to Tweagers for learning Haskell and
   - [Extensions](#extensions)
   - [Functional programming](#functional-programming)
   - [Functors, applicatives and monads](#functors-applicatives-and-monads)
+  - [Generic programming](#generic-programming)
   - [IO](#io)
   - [Optics](#optics)
   - [Parser combinators](#parser-combinators)
@@ -69,6 +70,11 @@ A collection of resources which were useful to Tweagers for learning Haskell and
 ### Functors, applicatives and monads
 
 - [Functors, Applicatives, And Monads In Pictures](https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) by [Adit Bhargava](https://twitter.com/_egonschiele)
+
+### Generic programming
+
+- [An introduction to typeclass metaprogramming](https://lexi-lambda.github.io/blog/2021/03/25/an-introduction-to-typeclass-metaprogramming/) by [Alexis King](https://twitter.com/lexi_lambda)
+- [Datatype-generic programming](https://www.youtube.com/watch?v=pwnrfREbhWY) by [Andres Löh](https://twitter.com/kosmikus)
 
 ### IO
 
